@@ -1,0 +1,2 @@
+# ws-settings
+WebStorm Settings
